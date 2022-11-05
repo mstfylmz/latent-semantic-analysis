@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Finans" xml:space="preserve">
+    <value>Turkiyede yastık altında oldugu tahmin edilen altın miktarının 5 bin ton oldugunu, bunun 200 milyar dolara tekabul ettigini belirterek, söz konusu rakamın buyuk bölumunun ev almak ya da başka önemli ihtiyaçlar için kiralık kasa, ev ya da kuyumcularda uzun yıllar atıl kaldıgını söyledi.
+Devlet otoriteleri tarafından yastık altından altınların çıkarılması projesine saglanacak destek ve teşvikle kayıt dışı altın tasarruflarının önemli bir bölumunun kısa sure içerisinde finansal sisteme girecegini ifade eden Halaç, şöyle devam etti.Yastık altındaki 5 bin ton altın, 200 milyar dolar buyuklugundeki bir paranın ekonomiden kaçırılmış olması demektir. Yastık altı altin, ekonomimiz için çok buyuk bir guç ve gizli bir silahtır. Yeterli bilgilendirme olmadıgı için halkın elinde atıl vaziyette yönlendirilmeyi beklemektedir</value>
+  </data>
+  <data name="FinansTest" xml:space="preserve">
+    <value>Turkiyede</value>
+  </data>
+  <data name="Kultur" xml:space="preserve">
+    <value>Gaziantep'te makineleşme, moda ve hazır giyimin gelişmesi nedeniyle eskisi kadar ilgi görmeyen ipekli dokuma kutnu kumaşı, Kültür ve Turizm Bakanlığının da desteğiyle yaşatılmaya çalışılıyor.
+
+Her kumaşın, her desenin bir adı var. "Sultan", "kerasi", "sarı tas", "mor sümbül"... Kendi arasında 60'a yakın motifi bulunan, ipek ve pamuk karışımı naturel kumaş kutnu, "kara tezgah" ve el tezgahlarında, baba mesleğinin sürdürülmesi gayesiyle dokunuyor. 16'ncı yüzyıldan itibaren Gaziantep'te dokunan ve Osmanlı padişahları tarafından da giysi olarak diktirilen kutnu, modaya ve hazır giyime inat, dokunuyor, bilim insanları, üzerine tezler yazıyor.
+
+Kutnu kumaşı için Gaziantep Büyükşehir Belediyesi ve Sanayi Odasının girişimleriyle 2014 yılında Tanıtım Grubu da kuruldu.
+
+Yarım asırdır kutnuya desen veriyor
+Babadan kalma el sanatını tarihi Budeyri Han'da yaşatmaya çalışan 59 yaşındaki usta Abdulkadir Mekki, AA muhabirine yaptığı açıklamada, kutnu kumaşını 5 yaşından beri dokuduğunu söyledi.
+
+Mekki, onun yanında, mahalli deyimle "taharlama" ile yani kutnunun dizaynı, sistemini yaparak bu işe başladığını dile getirdi.
+
+Kutnunun ipek ve pamuk karışımı bir kumaş olduğunu kaydeden Mekki, "Önce ipekler, iplikler bobin haline getirilir. El çözgüsü 'devere' denilen dolapta çözülür. Sonra boyanır. Mezekçiler, bunların mukavemetini, parlaklığını, sağlamlığını ayarlar. Daha sonra taharlamaya, tarakçıya gelir. Tarakçı da bunların belli kaidesine göre renk tasarımlarını, dizaynını yapar. Ondan sonra dokumaya gelir. Dokumadan sonra da ütüye gider. Hepsinin kendine göre incelikleri var. Sıralamada yanlış yaparsanız desen, motif düzgün çıkmaz." diye konuştu.
+
+Üçüncü kuşağın temsilcisi
+Kutnuculukta kendisinin üçüncü kuşak olduğunu belirten Mekki, "Daha önce bu kumaşlar Suriye'de, Halep'te, Hama'da dokunurdu. Dedemin ağabeyi Abdulvahap Mekki, Osmanlı dağıldığında Suriye'den buraya geldi. Tanınmış bir ustaydı. Dedem Şeyh Muhammed Mekki, babam Ömer Mekki ve son olarak ben kutnu dokuyorum. Babam 1992'de vefat etti." dedi.
+
+Kutnuya ilginin azalmasına üzüldüğünü anlatan Mekki, şöyle konuştu:
+
+"Büyüklerimizin bu işlere ön ayak olması lazım. Meslek liselerinde bölüm açılabilir. Çocukların hepsi de liselere gittiği için haliyle çırak alamıyoruz. Bu işi öğrenecek insanın usta olabilmesi için aşağı yukarı 7-8 yaşında başlaması lazım. Öyle olmayınca haliyle zorlanıyoruz. Kutnu naturel bir kumaştır. Kavak ağacının liflerinden elde edilen bir iplik. İçerisine attığımız iplik de yüzde 100 pamuk ipliği. Yazın kullanan insan rahat eder, serindir, ter çeker, kışın sıcaktır. Haliyle nazlı bir kumaş. 20, 30 yıl önce baskı tekniği gelişince bunlara ilgi kalmadı."</value>
+  </data>
+  <data name="Ozet1" xml:space="preserve">
+    <value>Zirveden düşen Kartal Milan sendromu yaşıyor. Şampiyonluk yarışını kendi sahasında
+aldığı başarısız sonuçlarla kaybeden bir diğer takım ise Milan oldu. Son
+şampiyonluğunu 2003-04 sezonunda yaşayan Milan için San Siro bu yıl tam bir
+kâbus oldu. Çizme'nin devi bu sezon kendi sahasında ilk galibiyetini almak için
+tam 9 hafta bekledi. Ligin 18. haftasında kendi sahasında Napoli'yi 5-2 yenerek
+ilk galibiyetini alan Milan, San Siro'da şu ana kadar oynadığı 16 karşılaşmanın
+sadece 5'inde sahadan 3 puanla ayrıldı. San Siro'da sadece 22 puan toplayan
+Milan, 7 maçta berabere kalırken, 4 maçta sahadan puansız ayrıldı. San Siro'da
+kâbus yaşayan Milan deplasmanda daha başarılı bir performans çizdi. Deplasmanda
+16 maç sonunda 30 puan toplarken, 9 galibiyet, 3 beraberlik ve 4 yenilgi aldı.
+Kendi sahasında 20 gol atarken, deplasmanda rakip fileleri 28 kez havalandırdı.
+Şampiyonluktaki ezeli rakibi İnter karşısında yarıştan erken kopmasında, kendi
+saha avantajını iyi kullanamaması etkili oldu. Şampiyonluğa 4 yıldır hasret
+olan Milan'ın bu yıl beklentisi lig, olmazsa geçen yıl olduğu gibi Şampiyonlar
+Ligi kupasıydı. Bu hevese ikinci turda Arsenal son noktayı koyarak, Milan'ın
+kupasız bir sezon geçirmesine sebep oldu. Milan bu sezon yaşadığı kendi saha
+krizinin benzerini 1934-35 sezonunda yaşamıştı. Mussolini ve Meazza gibi dev
+yıldızların olduğu sezonda Milan 8 hafta galibiyete hasret kalmıştı.</value>
+  </data>
+  <data name="Spor" xml:space="preserve">
+    <value>Spor Toto Süper Lig'de konuk olduğu Kasımpaşa'yı 2-1 yenerek çıkışını sürdüren Galatasaray'da Portekizli futbolcu Armindo Bruma, sergilediği başarılı performansla göz dolduruyor.
+
+Galatasaray'ın bu sezon gol yollarındaki en etkili isimlerinden biri olan ve Kasımpaşa maçında da takımına galibiyeti getiren golü kaydeden Portekizli futbolcu, beklentileri fazlasıyla karşılarken, yıldızını da parlatmaya devam ediyor.
+
+Portekiz'in Sporting Lizbon ekibinden 2013-2014 sezonu öncesinde 10 milyon avro bonservis bedeliyle transfer edilen Bruma, sarı-kırmızılı takımdaki ilk iki sezonunda sakatlıklar ve uyum sorunu nedeniyle istenilenden uzak bir görüntü ortaya koydu.
+
+Geçen yıl kiralık olarak forma giydiği İspanya'nın Real Sociedad ekibinde kendisini geliştiren ve bu sezon geri döndüğü Galatasaray'da hazırlık döneminde oldukça etkili bir mücadele sergileyen Portekizli futbolcu, bu performansını Süper Lig'e de taşıdı.
+
+Ligde teknik direktör Jan Olde Riekerink'in vazgeçilmezleri arasında yer alan Armindo Bruma, forma giydiği 13 maçta 5 gol attı, 3 de asist yapma başarısı gösterdi.
+
+Gol attığı maçlarda mağlubiyet yok
+Galatasaray, Süper Lig'de Armindo Bruma'nın gol attığı maçlarda mağlubiyet yaşamadı.
+
+Sarı-kırmızılı takım, Portekizli futbolcunun fileleri havalandırdığı 5 karşılaşmadan 4 galibiyet ve 1 beraberlikle ayrıldı.
+
+Gollerin tamamını deplasmanda attı
+Portekizli futbolcu Bruma, ligde bu sezon attığı gollerin tamamını deplasman maçlarında kaydetti.
+
+Bruma, dış sahada Akhisar Belediyespor, Gençlerbirliği, Adanaspor ve Kasımpaşa'yı yendikleri maçların yanı sıra Beşiktaş ile berabere kaldıkları müsabakada birer kez topu ağlara yolladı.
+
+Türk Telekom Arena'da bu sezon henüz gol atma başarısı gösteremeyen yıldız futbolcu, deplasmanda Kayserispor ile berabere kaldıkları maçın yanı sıra Fenerbahçe'ye mağlup oldukları müsabakada da skor üretemedi.
+
+Portekizli futbolcu, attığı 5 golle bu sezon Süper Lig'de deplasmanda en fazla gol kaydeden oyuncu konumunda bulunuyor.</value>
+  </data>
+</root>
